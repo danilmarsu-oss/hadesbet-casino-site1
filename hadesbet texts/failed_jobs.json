@@ -1,0 +1,18 @@
+[
+  {
+    "task_id": "csv-2",
+    "source_row": "2",
+    "brand": "hadesbet casino",
+    "geo": "United Kingdom",
+    "page_type": "responsible gambling",
+    "error": "HTTP 429: {\"type\":\"error\",\"error\":{\"type\":\"rate_limit_error\",\"message\":\"This request would exceed your organization's rate limit of 8,000 output tokens per minute (org: ce93c0ce-7843-4a56-8c22-510c6468e284, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"},\"request_id\":\"req_011CaYExJm2ShjJ3pQyBFgjZ\"}"
+  },
+  {
+    "task_id": "csv-2",
+    "source_row": "2",
+    "brand": "hadesbet casino",
+    "geo": "United Kingdom",
+    "page_type": "terms and conditions",
+    "error": "HTTP 429: {\"type\":\"error\",\"error\":{\"type\":\"rate_limit_error\",\"message\":\"This request would exceed your organization's rate limit of 8,000 output tokens per minute (org: ce93c0ce-7843-4a56-8c22-510c6468e284, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"},\"request_id\":\"req_011CaYExH8JBftwcCMPX51Sx\"}"
+  }
+]
